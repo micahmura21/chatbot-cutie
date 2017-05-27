@@ -1,10 +1,9 @@
-div{
-	border-style: ridge;
-}
-body {
-	background-color: green
-
-}
 body{
-	background-image:  
+	background-color: orange;
+}
+textarea{
+	font-size: 24px;
+}
+#container{
+	text-align: center;
 }
